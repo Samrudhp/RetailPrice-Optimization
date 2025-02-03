@@ -1,0 +1,11 @@
+date,product,price,quantity
+2023-01-01,Espresso,2.5,100
+2023-01-02,Espresso,2.5,120
+2023-01-03,Espresso,2.7,110
+2023-01-04,Espresso,2.7,130
+2023-01-05,Espresso,2.9,105
+2023-01-01,Cappuccino,3.0,80
+2023-01-02,Cappuccino,3.0,90
+2023-01-03,Cappuccino,3.2,85
+2023-01-04,Cappuccino,3.2,95
+2023-01-05,Cappuccino,3.4,88
