@@ -1,4 +1,4 @@
-# Coffee Sales Price Elasticity Analysis
+# Sales Price Elasticity Analysis
 
 ## Project Overview
 This project analyzes the relationship between coffee prices and sales quantity to determine price elasticity of demand for different coffee products. Using linear regression, we can understand how price changes affect sales volume, helping optimize pricing strategies for maximum revenue.
